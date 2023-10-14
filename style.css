@@ -1,0 +1,84 @@
+.fullWidth{
+	background-color: black;
+	width: 100%;
+	height: 2cm;
+}
+td{
+	font-size: em;
+	color: white;
+}
+body{
+	padding: 0;
+	padding-top: 0;
+	margin: 0;
+	background-image: url('FB_IMG_16506645750959811.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	justify-content: center;
+	height: 100vh;
+    opacity: 0.5;
+    background-color: blue;
+}
+a{
+	color: white;
+	padding-right: 2em;
+	padding-left: 2em;
+	text-decoration: none;
+}
+table{
+	width: 100%;
+	padding-top: 0.8em;
+}
+.divLeft{
+	float: left;
+	width: 10%;
+	height: 100%;
+}
+.divRight{
+	float: right;
+	width: 90%;
+	height: 100%;
+}
+p{
+	float: right;
+	padding-top: 0em;
+	font-size: 1.3em;
+}
+.background{
+	padding: 0;
+	margin: 0;
+}
+.middlesomething{
+	text-align: center;
+	padding-top: 5cm;
+	font-size: 5cm;
+}
+.contact-form{
+	width: 80%;
+	max-width: 400px;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	text-align: center;
+}
+form{
+	text-align: left;
+}
+label, input, textarea{
+	display: block;
+	margin-bottom: 10px;
+}
+button{
+	background-color: #007bff;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+button:hover{
+	background-color: #0056b3;
+}
